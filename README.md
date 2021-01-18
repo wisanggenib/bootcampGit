@@ -9,5 +9,5 @@
 * Universitas Amikom Yogykarta
 
 ### Skill
-1 React Js
-2 Javascript
+1. React Js
+2. Javascript
