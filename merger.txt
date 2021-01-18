@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 testing for conflict by bagus
+=======
+conflicting -another branch by bagus
+>>>>>>> testconflict
