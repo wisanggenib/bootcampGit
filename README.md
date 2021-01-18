@@ -1,14 +1,14 @@
 # curriculum vitae
 
 ## Data Diri
-- Nama    : Bagus Wisanggeni
-- TTL     : Lumajang, 04-08-1997
+- Nama    : Muhammad Irfan
+- TTL     : Kulon Progo, 13-10-1997
 - Jenkel  : Laki-Laki
 
 ## Education
-* SMAN 1 Kencong
+* SMAN 1 Lendah
 * Universitas Amikom Yogykarta
 
 ### Skill
-1 Flutter
+1 React Js
 2 Javascript
